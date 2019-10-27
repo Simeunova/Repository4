@@ -3,6 +3,6 @@ public class AnyClass {
 
 	
 	public static void main(String[] args) {
-		System.out.println("kdrp");
+		System.out.println("Right comment please");
 	}
 }
